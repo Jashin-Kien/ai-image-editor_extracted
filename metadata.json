@@ -1,0 +1,5 @@
+{
+  "name": "AI Image Editor",
+  "description": "An application to edit images by removing backgrounds, cleaning up photos, or changing outfits using simple text instructions powered by Gemini.",
+  "requestFramePermissions": []
+}
