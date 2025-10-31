@@ -1,0 +1,6 @@
+/* index.css – style cơ bản để đảm bảo website hiển thị ổn định */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f9f9f9;
+}
